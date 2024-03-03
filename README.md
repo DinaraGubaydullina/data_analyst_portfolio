@@ -1,4 +1,4 @@
-# data_analyst_portfolio
+### My portfolio
 Here you'll find projects from my studies and personal explorations into data analysis. Each entry showcases my journey mastering data analytics skills.
 
 **Project #1
