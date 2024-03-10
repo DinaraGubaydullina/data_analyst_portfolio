@@ -31,4 +31,6 @@ This folder contains scripts that can be used to send alerts to the e-commerce t
 
 This folder contains a simple calculator I wrote for myself in Python to design and summarise AB tests. It includes sample size, p-value and test duration calculations based on metrics such as conversion rate.
 
+[Titanic](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/Titanic)
 
+This folder contains my work with the famous Titanic dataset. Using Python, I did some exploratory data analysis with visualization, worked with missing data and made feature extraction for the Logistic regression model.
