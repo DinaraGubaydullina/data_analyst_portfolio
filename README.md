@@ -1,9 +1,9 @@
 # Dinara Gubaydullina - Data analyst portfolio
 ## About me
 Hi, I'm Dinara! I'm a data analyst with an analytical background in the e-commerce department of the bank. I have a Bachelor's degree in Economics (Accounting, Analysis and Audit) and later retrained and got a qualification of a Data analyst.
-Here you'll find projects from my studies and personal explorations into data analysis. Each entry showcases my journey mastering data analytics skills.
+Here you'll find projects from my studies and personal explorations into data analysis. This portfolio is still work in progress.
 
-## Study projects
+## Study courses projects
 [Advanced AB-tests Simulator by Karpov.Courses](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/Advanced_AB-tests_Simulator)
 
 This folder contains solutions to tasks from the Advanced AB-tests Simulator course by Karpov.Courses. Through these tasks, I have been building the analytical foundation for an A/B testing platform, gradually exploring various aspects of the testing process. Each solution encompasses the development of a specific feature of the testing platform, contributing to a comprehensive understanding of A/B testing methodologies and techniques.
@@ -21,7 +21,7 @@ Here are some projects and business cases I did throughout the course.
 
 [Webinar efficiency](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/Webinar_efficiency)
 
-## Portfolio projects (in progress)
+## Other projects
 
 [Alerting system in e-commerce](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/ecom_alerting)
 
