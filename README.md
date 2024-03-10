@@ -22,11 +22,13 @@ Here are some projects and business cases I did throughout the course.
 [Webinar efficiency](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/Webinar_efficiency)
 
 ## Portfolio projects (in progress)
-[AB-tests calculator](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/AB-tests_calculator)
-
-This folder contains a simple calculator I wrote for myself to design and summarise AB tests. It includes sample size, p-value and test duration calculations based on metrics such as conversion rate.
 
 [Alerting system in e-commerce](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/ecom_alerting)
 
-This folder contains scripts that can be used to send alerts to the e-commerce team if there are any deviations in visits or leads numbers by traffic type or URL. 
+This folder contains scripts that can be used to send alerts to the e-commerce team if there are any deviations in visits or leads numbers by traffic type or URL. Data is taken from SQL tables (showcase of my MySQL and Clickhouse queries writing skills) and then processed and sent as an alert (showcase of Python skills).
+
+[AB-tests calculator](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/AB-tests_calculator)
+
+This folder contains a simple calculator I wrote for myself in Python to design and summarise AB tests. It includes sample size, p-value and test duration calculations based on metrics such as conversion rate.
+
 
