@@ -25,7 +25,7 @@ Here are some projects and business cases I did throughout the course.
 
 [Alerting system in e-commerce](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/ecom_alerting)
 
-This folder contains scripts that can be used to send alerts to the e-commerce team if there are any deviations in visits or leads numbers by traffic type or URL. Data is taken from SQL tables (showcase of my MySQL and Clickhouse queries writing skills) and then processed and sent as an alert (showcase of Python skills).
+This folder contains scripts that can be used to send alerts to the e-commerce team if there are any deviations in visits or leads numbers by traffic type or URL. Data is taken from SQL tables (MySQL or Clickhouse dialects) and then processed and sent as an alert (using Python).
 
 [AB-tests calculator](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/AB-tests_calculator)
 
