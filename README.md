@@ -1,7 +1,10 @@
 # Dinara Gubaydullina - Data analyst portfolio
 ## About me
 Hi, I'm Dinara! I'm a data analyst with an analytical background in the e-commerce department of the bank. I have a Bachelor's degree in Economics (Accounting, Analysis and Audit) and later retrained and got a qualification of a Data analyst.
-Here you'll find projects from my studies and personal explorations into data analysis. This portfolio is still work in progress.
+
+Here you'll find projects from my studies and personal explorations into data analysis. 
+
+This portfolio is still work in progress.
 
 ## Study courses projects
 [Advanced AB-tests Simulator by Karpov.Courses](https://github.com/DinaraGubaydullina/data_analyst_portfolio/tree/main/Advanced_AB-tests_Simulator)
